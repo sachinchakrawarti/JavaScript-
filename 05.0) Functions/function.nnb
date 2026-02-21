@@ -39,6 +39,26 @@
                     ]
                 }
             ]
+        },
+        {
+            "language": "javascript",
+            "source": [
+                "function mylove(love){\r\n  console.log(\"i love you \" + love);\r\n}\r\n\r\nmylove(\"priyal\")\r\n"
+            ],
+            "outputs": [
+                {
+                    "items": [
+                        {
+                            "mime": "application/vnd.code.notebook.stdout",
+                            "value": [
+                                "i love you priyal",
+                                "",
+                                ""
+                            ]
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
