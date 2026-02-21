@@ -43,7 +43,18 @@ function mylove(love){
 mylove("priyal")
 
 ```
+## 4️⃣ Function with Return Value
 
 
+```javascript
+function add(a, b){
+    retrun a + b;
+}
 
+let result = add(5 , 3);
+console.log(result);
+```
+
+
+## 5️⃣ Function Expression
 
