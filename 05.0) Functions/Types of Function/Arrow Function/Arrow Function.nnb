@@ -1,3 +1,45 @@
 {
-    "cells": []
+    "cells": [
+        {
+            "language": "javascript",
+            "source": [
+                "const priyal = () => \r\n    console.log(\"i love you Sachin. i cant live without you , plz come to me\");\r\npriyal();\r\n"
+            ],
+            "outputs": [
+                {
+                    "items": [
+                        {
+                            "mime": "application/vnd.code.notebook.error",
+                            "value": {
+                                "name": "Error",
+                                "message": "Failed to generate code object, \nundefined\n      ^\n\nIdentifier 'priyal' has already been declared",
+                                "stack": ""
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "language": "javascript",
+            "source": [
+                "const priyalshri = () => {\r\n    console.log(\"i love you Sachin. i cant live without you , plz come to me\");\r\n}\r\npriyalshri();\r\n\r\n"
+            ],
+            "outputs": [
+                {
+                    "items": [
+                        {
+                            "mime": "application/vnd.code.notebook.stdout",
+                            "value": [
+                                "i love you Sachin. i cant live without you , plz come to me",
+                                "i love you Sachin. i cant live without you , plz come to me",
+                                "",
+                                ""
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }
