@@ -34,6 +34,13 @@
                 "// object literal syntax\r\n\r\n```javascript\r\nconst myObject = {\r\n    key: value 1,\r\n    keys: value 2,\r\n    // more key- value pairs \r\n};\r\n\r\n```"
             ],
             "outputs": []
+        },
+        {
+            "language": "markdown",
+            "source": [
+                "+ Curly braces {} are used to denote the beginning and end of the object literal.\r\n\r\n"
+            ],
+            "outputs": []
         }
     ]
 }
