@@ -6,6 +6,26 @@
                 "Strings can contain letters, numbers, symbols, or spaces."
             ],
             "outputs": []
+        },
+        {
+            "language": "typescript",
+            "source": [
+                "let name = \"Rahul\";\r\nlet city = 'Delhi';\r\n\r\nconsole.log(name);\r\nconsole.log(city);"
+            ],
+            "outputs": [
+                {
+                    "items": [
+                        {
+                            "mime": "application/vnd.code.notebook.stdout",
+                            "value": [
+                                "Rahul",
+                                "",
+                                ""
+                            ]
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
