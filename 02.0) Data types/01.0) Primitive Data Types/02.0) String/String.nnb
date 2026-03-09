@@ -48,11 +48,24 @@
             ]
         },
         {
-            "language": "markdown",
+            "language": "javascript",
             "source": [
-                ""
+                "let name = \"Priya\";\r\n\r\nlet message = `Hello ${name}`;\r\n\r\nconsole.log(message);"
             ],
-            "outputs": []
+            "outputs": [
+                {
+                    "items": [
+                        {
+                            "mime": "application/vnd.code.notebook.stdout",
+                            "value": [
+                                "Hello Priya",
+                                "",
+                                ""
+                            ]
+                        }
+                    ]
+                }
+            ]
         },
         {
             "language": "markdown",
