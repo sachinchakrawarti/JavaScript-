@@ -146,6 +146,26 @@
                     ]
                 }
             ]
+        },
+        {
+            "language": "javascript",
+            "source": [
+                "let name = \"Shraddhu & Priyal weds sachin \";\r\n\r\nlet message = `Hello ${name}`;\r\n\r\nconsole.log(message);"
+            ],
+            "outputs": [
+                {
+                    "items": [
+                        {
+                            "mime": "application/vnd.code.notebook.stdout",
+                            "value": [
+                                "Hello Shraddhu & Priyal weds sachin ",
+                                "",
+                                ""
+                            ]
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
