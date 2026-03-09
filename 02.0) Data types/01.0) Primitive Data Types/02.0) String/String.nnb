@@ -86,6 +86,26 @@
                     ]
                 }
             ]
+        },
+        {
+            "language": "javascript",
+            "source": [
+                "let name = \"Sachin JI\";\r\n\r\nlet message = `Hello ${name}`;\r\n\r\nconsole.log(message);"
+            ],
+            "outputs": [
+                {
+                    "items": [
+                        {
+                            "mime": "application/vnd.code.notebook.stdout",
+                            "value": [
+                                "Hello Sachin JI",
+                                "",
+                                ""
+                            ]
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
