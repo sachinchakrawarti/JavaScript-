@@ -172,7 +172,20 @@
             "source": [
                 "let wedding = \"Shraddhu & PP weds sachin \";\r\n\r\n\r\n\r\nconsole.log(wedding);"
             ],
-            "outputs": []
+            "outputs": [
+                {
+                    "items": [
+                        {
+                            "mime": "application/vnd.code.notebook.stdout",
+                            "value": [
+                                "Shraddhu & PP weds sachin ",
+                                "",
+                                ""
+                            ]
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
