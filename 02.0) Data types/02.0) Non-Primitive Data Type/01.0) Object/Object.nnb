@@ -3,7 +3,7 @@
         {
             "language": "typescript",
             "source": [
-                "let person = {\r\n  name: \"Rahul\",\r\n  age: 22,\r\n  city: \"Delhi\"\r\n};\r\n\r\nconsole.log(person.name); // Rahul"
+                "let god = {\r\n  name: \"Shraddha Kapoor\",\r\n\r\n \r\n};\r\n\r\nconsole.log(god); // Rahul"
             ],
             "outputs": [
                 {
@@ -11,7 +11,7 @@
                         {
                             "mime": "application/vnd.code.notebook.stdout",
                             "value": [
-                                "Rahul",
+                                "{ name: 'Shraddha Kapoor' }",
                                 "",
                                 ""
                             ]
