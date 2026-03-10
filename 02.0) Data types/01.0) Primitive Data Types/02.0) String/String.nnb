@@ -150,7 +150,7 @@
         {
             "language": "javascript",
             "source": [
-                "let name = \"Shraddhu & Priyal weds sachin \";\r\n\r\nlet message = `Hello ${name}`;\r\n\r\nconsole.log(message);"
+                "let wedding = \"Shraddhu & PP weds sachin \";\r\n\r\n\r\n\r\nconsole.log(wedding);"
             ],
             "outputs": [
                 {
@@ -158,7 +158,7 @@
                         {
                             "mime": "application/vnd.code.notebook.stdout",
                             "value": [
-                                "Hello Shraddhu & Priyal weds sachin ",
+                                "Shraddhu & PP weds sachin ",
                                 "",
                                 ""
                             ]
@@ -166,6 +166,13 @@
                     ]
                 }
             ]
+        },
+        {
+            "language": "javascript",
+            "source": [
+                "let wedding = \"Shraddhu & PP weds sachin \";\r\n\r\n\r\n\r\nconsole.log(wedding);"
+            ],
+            "outputs": []
         }
     ]
 }
