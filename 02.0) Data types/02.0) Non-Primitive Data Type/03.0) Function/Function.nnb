@@ -1,0 +1,24 @@
+{
+    "cells": [
+        {
+            "language": "typescript",
+            "source": [
+                "function greet(name) {\r\n  return \"Hello \" + name;\r\n}\r\n\r\nconsole.log(greet(\"Rahul\"));"
+            ],
+            "outputs": [
+                {
+                    "items": [
+                        {
+                            "mime": "application/vnd.code.notebook.stdout",
+                            "value": [
+                                "Hello Rahul",
+                                "",
+                                ""
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
