@@ -8,6 +8,13 @@
             "outputs": []
         },
         {
+            "language": "javascript",
+            "source": [
+                ""
+            ],
+            "outputs": []
+        },
+        {
             "language": "markdown",
             "source": [
                 "The if statement runs a block of code only when a condition is true."
@@ -67,6 +74,13 @@
                     ]
                 }
             ]
+        },
+        {
+            "language": "javascript",
+            "source": [
+                "let num = 7;\r\n\r\nif (num % 2 === 0) {\r\n  console.log(\"Even\");\r\n} else {\r\n  console.log(\"Odd\");\r\n}"
+            ],
+            "outputs": []
         }
     ]
 }
