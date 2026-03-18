@@ -59,6 +59,26 @@
                     ]
                 }
             ]
+        },
+        {
+            "language": "typescript",
+            "source": [
+                "let marks = 85;\r\n\r\nswitch (true) {\r\n  case marks >= 90:\r\n    console.log(\"Grade A\");\r\n    break;\r\n  case marks >= 75:\r\n    console.log(\"Grade B\");\r\n    break;\r\n  case marks >= 50:\r\n    console.log(\"Grade C\");\r\n    break;\r\n  default:\r\n    console.log(\"Fail\");\r\n}"
+            ],
+            "outputs": [
+                {
+                    "items": [
+                        {
+                            "mime": "application/vnd.code.notebook.stdout",
+                            "value": [
+                                "Grade B",
+                                "",
+                                ""
+                            ]
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
