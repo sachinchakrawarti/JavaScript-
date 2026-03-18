@@ -5,7 +5,20 @@
             "source": [
                 "let day = 2;\r\n\r\nswitch (day) {\r\n  case 1:\r\n    console.log(\"Monday\");\r\n    break;\r\n  case 2:\r\n    console.log(\"Tuesday\");\r\n    break;\r\n  case 3:\r\n    console.log(\"Wednesday\");\r\n    break;\r\n  default:\r\n    console.log(\"Invalid day\");\r\n}"
             ],
-            "outputs": []
+            "outputs": [
+                {
+                    "items": [
+                        {
+                            "mime": "application/vnd.code.notebook.stdout",
+                            "value": [
+                                "Tuesday",
+                                "",
+                                ""
+                            ]
+                        }
+                    ]
+                }
+            ]
         },
         {
             "language": "typescript",
