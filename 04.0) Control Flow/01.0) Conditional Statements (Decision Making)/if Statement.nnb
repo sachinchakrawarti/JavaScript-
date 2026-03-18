@@ -80,7 +80,20 @@
             "source": [
                 "let num = 7;\r\n\r\nif (num % 2 === 0) {\r\n  console.log(\"Even\");\r\n} else {\r\n  console.log(\"Odd\");\r\n}"
             ],
-            "outputs": []
+            "outputs": [
+                {
+                    "items": [
+                        {
+                            "mime": "application/vnd.code.notebook.stdout",
+                            "value": [
+                                "Odd",
+                                "",
+                                ""
+                            ]
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
