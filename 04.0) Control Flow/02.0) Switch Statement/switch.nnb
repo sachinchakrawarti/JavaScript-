@@ -10,9 +10,22 @@
         {
             "language": "typescript",
             "source": [
-                ""
+                "let fruit = \"apple\";\r\n\r\nswitch (fruit) {\r\n  case \"apple\":\r\n  case \"mango\":\r\n  case \"banana\":\r\n    console.log(\"This is a fruit\");\r\n    break;\r\n  default:\r\n    console.log(\"Unknown\");\r\n}"
             ],
-            "outputs": []
+            "outputs": [
+                {
+                    "items": [
+                        {
+                            "mime": "application/vnd.code.notebook.stdout",
+                            "value": [
+                                "This is a fruit",
+                                "",
+                                ""
+                            ]
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
